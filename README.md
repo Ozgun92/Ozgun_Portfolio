@@ -5,4 +5,6 @@ Example IOS Portfolio
 
 [Project 2: Uber Clone](https://github.com/Ozgun92/Uber-Clone)
 
+[Project 3: Star Wars Lexicon](https://github.com/Ozgun92/StarWars-Lexicon)
+
 
