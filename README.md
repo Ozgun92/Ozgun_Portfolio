@@ -1,5 +1,5 @@
 # Ozgun's Portfolio
-Example IOS Portfolio
+
 
 [Project 1: ART](https://github.com/Ozgun92/ART)
 
