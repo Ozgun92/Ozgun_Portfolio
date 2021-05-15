@@ -22,4 +22,11 @@
 ![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SWL3.png)
 ![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SWL4.png)
 
+Project 3: STONKS
+
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/F1.png)
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/F2.png)
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/F3.png)
+
+
 
