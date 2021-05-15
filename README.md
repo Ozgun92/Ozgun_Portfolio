@@ -17,10 +17,10 @@
 
 [Project 3: Star Wars Lexicon](https://github.com/Ozgun92/StarWars-Lexicon)
 
-![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SWL1.png)
-![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SWL2.png)
-![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SWL3.png)
-![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SWL4.png)
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SW1.jpg)
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SW2.png)
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SW3.png)
+![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/SW4.png)
 
 Project 4: STONKS
 
