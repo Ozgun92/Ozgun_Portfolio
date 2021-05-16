@@ -1,5 +1,7 @@
 # Ozgun's Portfolio
 
+Portfolio Projects
+
 
 ## [Project 1: ART](https://github.com/Ozgun92/ART)
 
