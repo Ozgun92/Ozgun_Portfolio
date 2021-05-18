@@ -91,9 +91,28 @@ Things I learned:
 
 ## Project 4: STONKS
 
+STONKS is an MVP practice project. Users can search for any US based stocks, equities & ETFs. They can calculate and project potential returns from these assets
+
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F1.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F2.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F3.png?raw=true)
+
+Frameworks:
+* UIKit 
+* Combine
+
+Language:
+* Swift
+
+Architecture:
+* Model-View-Controller
+
+Third-Party Libraries:
+* MBProgressHUD
+* Loaf
+
+Things I learned:
+* Pass data with Combine
 
 
 
