@@ -37,6 +37,9 @@ Things I learned:
 * Authentication
 * Create custom XIB Table View Cells
 
+
+
+
 ## [Project 2: Uber Clone](https://github.com/Ozgun92/Uber-Clone)
 
 Uber-Clone is an MVP practice project. Users are asked for their current location and also where they want to be dropped off. Based on the distance between pick-up and drop-off location, a quota is being calculated which varies for the three types of rides available.
@@ -63,6 +66,9 @@ Things I learned:
 * Feed the app dummy JSON data for testing purposes
 * Work with CLLocationManager
 * Create MapView Annotations
+
+
+
 
 ## [Project 3: Star Wars Lexicon](https://github.com/Ozgun92/StarWars-Lexicon)
 
