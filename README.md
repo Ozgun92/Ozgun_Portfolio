@@ -6,7 +6,7 @@ Portfolio Projects
 ## [Project 1: ART](https://github.com/Ozgun92/ART)
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png?raw=true) 
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.PNG?raw=true)
+![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png?raw=true)
 ![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%201.png)
 ![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%202.png)
 ![](https://github.com/Ozgunyildiz1/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%203.png)
