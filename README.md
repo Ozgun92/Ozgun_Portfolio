@@ -1,4 +1,4 @@
-# Ozgun's Portfolio
+# Özgün's Portfolio
 
 Portfolio Projects
 
