@@ -88,7 +88,7 @@ Things I learned:
 
 ## Project 4: STONKS
 
-STONKS is an MVP practice project. Users can search for any US based stocks, equities & ETFs. They can calculate and project potential returns from these assets
+STONKS is an MVP practice project. Users can search for any US based stocks, equities & ETFs. They can calculate and project potential returns from these assets. Main features of the app were Unit Tested.
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F1.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F2.png?raw=true)
@@ -110,6 +110,7 @@ Third-Party Libraries:
 
 Things I learned:
 * Pass data with Combine
+* Write Unit Tests
 
 
 
