@@ -6,7 +6,7 @@ Snipit is a Social Media App that is purely audio based. Users can follow others
 
 Users are shown Snipits of other users they aren't following yet in the Discovery Feed. In the Discovery Feed, users can search for specific users via name or their Snipit handle. Users can share Snipits and comments via message to other users and also chat with them via audio. 
 
-NOTE: This app isn't on the Appstore yet. It will be in beta testing soon, hopefully. It still has major bugs that have to be worked on. This app is being created by Ufuk Türközü (link to his Github shorturl.at/pszN2) and me.
+NOTE: This app isn't on the Appstore yet. It will be in beta testing soon, hopefully. It still has major bugs that have to be worked on. This app is being created by [Ufuk Türközü](https://github.com/ufuk-trkz) and me.
 
 If you want to know more about the app, here is a blog post we've written on it :) 
 
