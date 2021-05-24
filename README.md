@@ -1,6 +1,17 @@
 # Özgün's Portfolio
 
+## Project 0: Snipit
+
 ## [Project 1: ART](https://github.com/Ozgun92/ART)
+
+![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
+![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit1.png?raw=true)
+![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit2.png?raw=true)
+![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit3.png?raw=true)
+![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit4.png?raw=true)
+![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit5.png?raw=true)
+
+
 
 ART is an MVP practice project. Users can either sign up/sign in or continue as guest (no authentication required). If users forget their password, they can retrieve it by clicking "Forgot password?" button and entering their mail address. The app consists of two different versions: One is the admin version, where categories can be created/edited and new pictures can be added to categories. The other is the user version, where users can enjoy these pictures and favorite them. Favorited pictures are saved and stored in a seperate Table View.
 
