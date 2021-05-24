@@ -6,7 +6,6 @@ Users are shown Snipits of other users they aren't following yet in the Discover
 
 NOTE: This app isn't on the Appstore yet. It will be in beta testing soon, hopefully. It still has major bugs that have to be worked on. This app is being created by [Ufuk Türközü](https://github.com/ufuk-trkz) and me.
 
-If you want to know more about the app, here is a blog post we've written on it :) 
 
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit1.png?raw=true)
