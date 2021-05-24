@@ -1,4 +1,3 @@
-
 ## Project 0: Snipit
 
 Snipit is a Social Media App that is purely audio based. Users can follow others and post short Snipits (up to 9 seconds). These Snipits can be commented and every comment can be commented also. Users can enable auto-play, which, while enabled, plays all Snipits in one's feed chronologically. Users can also like Snipts and comments. 
