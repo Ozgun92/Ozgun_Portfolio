@@ -1,4 +1,3 @@
-# Özgün's Portfolio
 
 ## Project 0: Snipit
 
