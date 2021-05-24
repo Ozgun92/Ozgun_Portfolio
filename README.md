@@ -2,12 +2,38 @@
 
 ## Project 0: Snipit
 
+Snipit is a Social Media App that is purely audio based. Users can follow others and post short Snipits (up to 9 seconds). These Snipits can be commented and every comment can be commented also. Users can enable auto-play, which, while enabled, plays all Snipits in one's feed chronologically. Users can also like Snipts and comments. Users are shown Snipits of other users they aren't following yet in the Discovery Feed. In the Discovery Feed, users can search for specific users via name or their Snipit handle. Users can share Snipits and comments via message to other users and also chat with them via audio. 
+
+NOTE: This app isn't on the Appstore yet. It will be in beta testing soon, hopefully. It still has major bugs that have to be worked on. This app is being created by Ufuk Türközü (link to his Github shorturl.at/pszN2) and me.
+
+If you want to know more about the app, here is a blog post we've written on it :) 
+
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit0.png?raw=true)
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit1.png?raw=true)
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit2.png?raw=true)
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit3.png?raw=true)
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit4.png?raw=true)
 ![](https://github.com/oezguenY/Portfolio_Projects/blob/main/images/snipit5.png?raw=true)
+
+Backend:
+* Firebase
+
+Framework:
+* UIKit
+
+Language: 
+* Swift
+
+Architecture:
+* Model-View-Controller
+
+Third-Party Libraries:
+* Firebase
+
+Things I learned:
+* Working with a backend
+* Authentication
+* AVFoundation
 
 
 ## [Project 1: ART](https://github.com/Ozgun92/ART)
@@ -40,9 +66,8 @@ Third-Party Libraries:
 * Kingfisher
 
 Things I learned:
-* Work with a backend
-* Authentication
 * Create custom XIB Table View Cells
+* practiced backend
 
 ## [Project 2: Uber Clone](https://github.com/Ozgun92/Uber-Clone)
 
