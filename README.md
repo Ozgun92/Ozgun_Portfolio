@@ -37,7 +37,7 @@ Things I learned:
 
 ## [Project 1: ART](https://github.com/Ozgun92/ART)
 
-ART is an MVP practice project. Users can either sign up/sign in or continue as guest (no authentication required). If users forget their password, they can retrieve it by clicking "Forgot password?" button and entering their mail address. The app consists of two different versions: One is the admin version, where categories can be created/edited and new pictures can be added to categories. The other is the user version, where users can enjoy these pictures and favorite them. Favorited pictures are saved and stored in a seperate Table View.
+ART is an MVC practice project. Users can either sign up/sign in or continue as guest (no authentication required). If users forget their password, they can retrieve it by clicking "Forgot password?" button and entering their mail address. The app consists of two different versions: One is the admin version, where categories can be created/edited and new pictures can be added to categories. The other is the user version, where users can enjoy these pictures and favorite them. Favorited pictures are saved and stored in a seperate Table View.
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%201.png?raw=true)
@@ -70,7 +70,7 @@ Things I learned:
 
 ## [Project 2: Uber Clone](https://github.com/Ozgun92/Uber-Clone)
 
-Uber-Clone is an MVP practice project. Users are asked for their current location and also where they want to be dropped off. Based on the distance between pick-up and drop-off location, a quota is being calculated which varies for the three types of rides available.
+Uber-Clone is an MVC practice project. Users are asked for their current location and also where they want to be dropped off. Based on the distance between pick-up and drop-off location, a quota is being calculated which varies for the three types of rides available.
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Uber1.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Uber2.png?raw=true)
@@ -97,7 +97,7 @@ Things I learned:
 
 ## [Project 3: Star Wars Lexicon](https://github.com/Ozgun92/StarWars-Lexicon)
 
-StarWars-Lexicon is an MVP practice project. Users can press on a button which triggers a web request. This web request gets a random StarWars character in JSON.
+StarWars-Lexicon is an MVC practice project. Users can press on a button which triggers a web request. This web request gets a random StarWars character in JSON.
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/SWL1.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/SWL2.png?raw=true)
@@ -122,7 +122,7 @@ Things I learned:
 
 ## Project 4: STONKS
 
-STONKS is an MVP practice project. Users can search for any US based stocks, equities & ETFs. They can calculate and project potential returns from these assets. Main features of the app were Unit Tested.
+STONKS is an MVC practice project. Users can search for any US based stocks, equities & ETFs. They can calculate and project potential returns from these assets. Main features of the app were Unit Tested.
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F1.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/F2.png?raw=true)
