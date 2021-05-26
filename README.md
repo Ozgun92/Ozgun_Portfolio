@@ -33,7 +33,7 @@ Things I learned:
 * Working with a backend
 * Authentication
 * AVFoundation
-* MVMediaPlayer
+* MediaPlayer
 * Push Notifications
 * Firebase Messaging
 
