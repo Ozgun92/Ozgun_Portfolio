@@ -33,6 +33,9 @@ Things I learned:
 * Working with a backend
 * Authentication
 * AVFoundation
+* MVMediaPlayer
+* Push Notifications
+* Firebase Messaging
 
 
 ## [Project 1: ART](https://github.com/Ozgun92/ART)
