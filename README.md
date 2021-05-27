@@ -69,7 +69,7 @@ Third-Party Libraries:
 
 Things I learned:
 * Create custom XIB Table View Cells
-* practiced backend
+* Practiced backend
 
 What I plan to implement:
 * Stripe SDK for payments
