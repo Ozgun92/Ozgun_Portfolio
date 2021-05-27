@@ -71,6 +71,9 @@ Things I learned:
 * Create custom XIB Table View Cells
 * practiced backend
 
+What I plan to implement:
+* Stripe SDK for payments
+
 ## [Project 2: Uber Clone](https://github.com/Ozgun92/Uber-Clone)
 
 Uber-Clone is an MVC practice project. Users are asked for their current location and also where they want to be dropped off. Based on the distance between pick-up and drop-off location, a quota is being calculated which varies for the three types of rides available.
@@ -98,6 +101,9 @@ Things I learned:
 * Work with CLLocationManager
 * Create MapView Annotations
 
+What I plan to implement:
+* Possibility to tip drivers
+
 ## [Project 3: Star Wars Lexicon](https://github.com/Ozgun92/StarWars-Lexicon)
 
 StarWars-Lexicon is an MVC practice project. Users can press on a button which triggers a web request. This web request gets a random StarWars character in JSON.
@@ -122,6 +128,7 @@ Third-Party Libraries:
 
 Things I learned:
 * Use different methods for web requests: Alamofire with Codable, Alamofire with SwiftyJSON, just Alamofire, and conventional URLSession
+
 
 ## Project 4: STONKS
 
