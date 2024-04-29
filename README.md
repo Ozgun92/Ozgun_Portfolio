@@ -2,7 +2,7 @@
 
 This is a social app created by me that enables you to send hugs to your loved ones.
 
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/47d3fa98c78b578873a2fd8fccdcf3483153c198/images/HugMe1.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/6922fc529561951c4830a4892eabc93d0c2c7340/images/HugNew1.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/47d3fa98c78b578873a2fd8fccdcf3483153c198/images/HugMe2.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/47d3fa98c78b578873a2fd8fccdcf3483153c198/images/HugMe3.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/47d3fa98c78b578873a2fd8fccdcf3483153c198/images/HugMe4.png)
