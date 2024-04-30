@@ -17,7 +17,7 @@ This is a social app created by me that enables you to send hugs to your loved o
 - Account and Profile Deletion
 - Realtime Capabilities
 - Paginated Posts Feed (20 posts per fetch)
-- Making/Posting pictures & exchanging text & pictures (somewhat like Snapchat)
+- Making/Posting pictures & exchanging text & pictures (like Snapchat)
 - Deleting Posts
 
   # Architecture
