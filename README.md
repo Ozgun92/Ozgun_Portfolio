@@ -45,9 +45,12 @@ This is a social app created by me that enables you to send hugs to your loved o
 NOTE: This app is on TestFlight for Beta-Testing.
 TestFlight Link: https://testflight.apple.com/join/pjvv0zGQ
 
-## [Project 2: ART](https://github.com/Ozgun92/ART)
+## [Project 2: Task Tracker]
 
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a42e6989c9df9cfef8814f663f83b3fb1b314b3b/images/TaskTracker1.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker2.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker3.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker4.png)
 
 
 
