@@ -14,8 +14,9 @@ Functionality
 - Authentication (Sign Up&Log In)
 - Apple Sign In
 - Google Sign In
+- Email
 - Password Forgotten - Change Password
-- Push Notifications
+- Push Notifications for friend requests and hug requests
 - Account and Profile Deletion
 - Realtime Capabilities
 - Paginated Posts Feed (20 posts per fetch)
