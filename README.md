@@ -51,7 +51,7 @@ TestFlight Link: https://testflight.apple.com/join/pjvv0zGQ
 
 ## Project 2: Task Tracker
 
-Task Tracker is an app that I created for a small business. It enables employees to write down their tasks for the day, how long they took them and add additional information. They also can inspect those tasks. Synchronizing sends data to a server of the company, that documents this data of every employee. Core Data was implemented so data of the user is being saved on the device.
+Task Tracker is an app that I created for a small business. It enables employees to write down their tasks for the day and add additional information. They also can inspect those tasks. Synchronizing sends data to a server of the company, that documents this data of every employee. Core Data was implemented so data of the user is being saved on the device.
 
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/TaskTracker1.png?raw=true)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/TaskTracker2.png?raw=true)
