@@ -3,11 +3,11 @@
 This is a social app created by me that enables you to send hugs to your loved ones.
 
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew1.png?raw=true)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/0d6129efea7803ce36bcae71ee87b1d7eff60508/images/HugNew2.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/7b15dd50ba4069936ead1a46c0f9366f6730c8df/images/HugNew3.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/7b15dd50ba4069936ead1a46c0f9366f6730c8df/images/HugNew4.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/7b15dd50ba4069936ead1a46c0f9366f6730c8df/images/HugNew5.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/7b15dd50ba4069936ead1a46c0f9366f6730c8df/images/HugNew6.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew2.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew3.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew4.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew5.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew6.png?raw=true)
 
 Functionality
 - Authentication (Sign Up&Log In)
@@ -49,10 +49,10 @@ TestFlight Link: https://testflight.apple.com/join/pjvv0zGQ
 
 Task Tracker is an app that I created for a small business. It enables employees to write down their tasks for the day, how long they took them and add additional information. They also can inspect those tasks. Synchronizing sends data to a server of the company, that documents this data of every employee. Core Data was implemented so data of the user is being saved on the device.
 
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a42e6989c9df9cfef8814f663f83b3fb1b314b3b/images/TaskTracker1.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker2.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker3.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker4.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/TaskTracker1.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/TaskTracker2.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/TaskTracker3.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/TaskTracker4.png?raw=true)
 
 Framework:
 * UIKit
@@ -77,8 +77,8 @@ ART is an MVC practice project. Users can either sign up/sign in or continue as 
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%201.png?raw=true)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a51c168da7f9e882f0d31938cf78a795e543f90c/images/Art2.png)
-![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a51c168da7f9e882f0d31938cf78a795e543f90c/images/Art3.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/Art2.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/Art3.png?raw=true)
 
 Backend:
 * Implemented Firebase Authentication
