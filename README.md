@@ -52,8 +52,8 @@ ART is an MVC practice project. Users can either sign up/sign in or continue as 
 
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%200.png?raw=true)
 ![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%201.png?raw=true)
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%202.png?raw=true)
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/Apple%20iPhone%2011%20Pro%20Max%20Screenshot%203.png?raw=true)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a51c168da7f9e882f0d31938cf78a795e543f90c/images/Art2.png)
+![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a51c168da7f9e882f0d31938cf78a795e543f90c/images/Art3.png)
 
 Backend:
 * Implemented Firebase Authentication
