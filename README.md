@@ -21,6 +21,8 @@ Functionality
 - Paginated Posts Feed (20 posts per fetch)
 - Making/Posting pictures & exchanging text & pictures (like Snapchat)
 - Deleting Posts
+- Search for users either via username or full name
+- Animate GIFS
 
 Architecture
 - MVC (in hindsight, I should have picked MVVM since some VCs are just too large. For instance, the ProfileViewVC is at 2.2k lines of code)
