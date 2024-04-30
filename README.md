@@ -14,6 +14,7 @@ Functionality
 - Authentication (Sign Up&Log In)
 - Apple Sign In
 - Google Sign In
+- Password Forgotten - Change Password
 - Push Notifications
 - Account and Profile Deletion
 - Realtime Capabilities
