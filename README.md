@@ -9,7 +9,7 @@ This is a social app created by me that enables you to send hugs to your loved o
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/7b15dd50ba4069936ead1a46c0f9366f6730c8df/images/HugNew5.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/7b15dd50ba4069936ead1a46c0f9366f6730c8df/images/HugNew6.png)
 
-# Functionality
+Functionality
 - Authentication (Sign Up&Log In)
 - Apple Sign In
 - Google Sign In
@@ -20,19 +20,19 @@ This is a social app created by me that enables you to send hugs to your loved o
 - Making/Posting pictures & exchanging text & pictures (like Snapchat)
 - Deleting Posts
 
-  # Architecture
+Architecture
 - MVC (in hindsight, I should have picked MVVM since some VCs are just too large. For instance, the ProfileViewVC is at 2.2k lines of code)
 
-# Backend
+Backend
 - Firebase
 
-# Apple Frameworks Used
+Apple Frameworks Used
 - Combine (SignUp VC)
 - Vision (Functionality for recognizing human faces is commented out at the moment)
 - AVFoundation
 - UIKit
 
-# Libraries
+Libraries
 - FirebaseAuth
 - FirebaseMessaging
 - FirebaseStorage
@@ -47,11 +47,28 @@ TestFlight Link: https://testflight.apple.com/join/pjvv0zGQ
 
 ## Project 2: Task Tracker
 
+Task Tracker is an app that I created for a small business. It enables employees to write down their tasks for the day, how long they took them and add additional information. They also can inspect those tasks. Synchronizing sends data to a server of the company, that documents this data of every employee. Core Data was implemented so data of the user is being saved on the device.
+
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/a42e6989c9df9cfef8814f663f83b3fb1b314b3b/images/TaskTracker1.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker2.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker3.png)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/d1459a2c6c2780f69be1b02cb40c598dc3126c5b/images/TaskTracker4.png)
 
+Framework:
+* UIKit
+
+Language: 
+* Swift
+
+Architecture:
+* MVVM
+
+Apple Frameworks Used
+* Combine
+* Core Data
+
+Third-Party Libraries:
+* IQKeyboardManagerSwift
 
 
 ## [Project 3: ART](https://github.com/Ozgun92/ART)
