@@ -1,7 +1,7 @@
 ## Özgün's Portfolio
 ## [Project 1: HugMeApp](https://github.com/oezguenY/HugMeApp)
 
-This is a social app created by me that enables you to send hugs to your loved ones.
+This is a social app created by me that enables you to send hugs to your loved ones. This app is on TestFlight. Join the Beta: https://testflight.apple.com/join/pjvv0zGQ
 
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew1.png?raw=true)
 ![](https://github.com/oezguenY/Ozguns_Portfolio/blob/main/images/HugNew2.png?raw=true)
