@@ -142,33 +142,7 @@ Things I learned:
 What I plan to implement:
 * Possibility to tip drivers
 
-## [Project 5: Star Wars Lexicon](https://github.com/Ozgun92/StarWars-Lexicon)
-
-StarWars-Lexicon is an MVC practice project. Users can press on a button which triggers a web request. This web request gets a random StarWars character in JSON.
-
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/SWL1.png?raw=true)
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/SWL2.png?raw=true)
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/SWL3.png?raw=true)
-![](https://github.com/oezguenY/Ozgun_Portfolio/blob/main/images/SWL4.png?raw=true)
-
-Framework:
-* UIKit
-
-Language: 
-* Swift
-
-Architecture:
-* Model-View-Controller
-
-Third-Party Libraries:
-* Alamofire
-* SwiftyJSON
-
-Things I learned:
-* Use different methods for web requests: Alamofire with Codable, Alamofire with SwiftyJSON, just Alamofire, and conventional URLSession
-
-
-## Project 6: STONKS
+## Project 5: STONKS
 
 STONKS is an MVC practice project. Users can search for any US based stocks, equities & ETFs. They can calculate and project potential returns from these assets. Main features of the app were Unit Tested.
 
